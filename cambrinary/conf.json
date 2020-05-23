@@ -8,12 +8,12 @@
     ],
     "pron_region": [
       "default",
-      "blue",
+      "red",
       "default"
     ],
     "pronunciation": [
-      "default",
-      "default",
+      "bold",
+      "red",
       "default"
     ],
     "guidword": [
@@ -23,23 +23,23 @@
     ],
     "definition": [
       "default",
-      "cyan",
-      "default"
+      "default",
+      "red"
     ],
     "trans_definition": [
       "default",
-      "default",
+      "light_green",
       "default"
     ],
     "example_sentence": [
       "default",
-      "default",
+      "light_green",
       "default"
     ],
     "synonym": [
       "default",
       "blue",
-      "default"
+      "light_green"
     ]
   }
 }

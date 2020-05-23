@@ -3,7 +3,7 @@ import os
 from collections import OrderedDict
 from pathlib import Path
 
-from .color_const import *
+from color_const import *
 
 
 def load(json_file):
